@@ -13,6 +13,7 @@ backend: will call by frontend buttons.
     3. Output details in a CSV format for easy extraction.
 
 ## Requirements
+we want to also use oxylab proxies for google search and product web site search.
 we have Requirements.txt file for install dependencies
 Before running the script, ensure you have the following installed
 run command for install dependencies   `requirments.txt`
